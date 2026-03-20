@@ -1,2 +1,3 @@
-# rapid-knowledge-base-zya0
+# Rapid Knowledge Base Zya0
+
 A repository to test GitHub automation for issue management.
